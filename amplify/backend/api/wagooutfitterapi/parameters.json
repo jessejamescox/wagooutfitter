@@ -1,5 +1,0 @@
-{
-  "AppSyncApiName": "wagooutfitterapi",
-  "DynamoDBBillingMode": "PAY_PER_REQUEST",
-  "DynamoDBEnableServerSideEncryption": false
-}
