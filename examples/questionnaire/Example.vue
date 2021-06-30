@@ -58,11 +58,6 @@
 </template>
 
 <script>
-  /*
-    Copyright (c) 2020 - present, DITDOT Ltd. - MIT Licence
-    https://www.ditdot.hr/en
-  */
-
   // Import necessary components and classes
   import FlowForm from '../../src/components/FlowForm.vue'
   import QuestionModel, { QuestionType, ChoiceOption, LinkOption } from '../../src/models/QuestionModel'

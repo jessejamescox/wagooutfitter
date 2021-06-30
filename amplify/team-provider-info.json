@@ -1,20 +1,20 @@
 {
     "dev": {
         "awscloudformation": {
-            "AuthRoleName": "amplify-wagooutfitter-dev-181721-authRole",
-            "UnauthRoleArn": "arn:aws:iam::343660384332:role/amplify-wagooutfitter-dev-181721-unauthRole",
-            "AuthRoleArn": "arn:aws:iam::343660384332:role/amplify-wagooutfitter-dev-181721-authRole",
+            "AuthRoleName": "amplify-wagooutfitter-dev-84249-authRole",
+            "UnauthRoleArn": "arn:aws:iam::343660384332:role/amplify-wagooutfitter-dev-84249-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::343660384332:role/amplify-wagooutfitter-dev-84249-authRole",
             "Region": "us-west-2",
-            "DeploymentBucketName": "amplify-wagooutfitter-dev-181721-deployment",
-            "UnauthRoleName": "amplify-wagooutfitter-dev-181721-unauthRole",
-            "StackName": "amplify-wagooutfitter-dev-181721",
-            "StackId": "arn:aws:cloudformation:us-west-2:343660384332:stack/amplify-wagooutfitter-dev-181721/ed04c820-d940-11eb-95aa-029e9f0e21f3",
-            "AmplifyAppId": "dy89zfmiwgwqx"
+            "DeploymentBucketName": "amplify-wagooutfitter-dev-84249-deployment",
+            "UnauthRoleName": "amplify-wagooutfitter-dev-84249-unauthRole",
+            "StackName": "amplify-wagooutfitter-dev-84249",
+            "StackId": "arn:aws:cloudformation:us-west-2:343660384332:stack/amplify-wagooutfitter-dev-84249/d4a6cb10-d9b9-11eb-9360-0af568a65bb1",
+            "AmplifyAppId": "d38vvvxr493hl3"
         },
         "categories": {
             "hosting": {
                 "amplifyhosting": {
-                    "appId": "dy89zfmiwgwqx",
+                    "appId": "d38vvvxr493hl3",
                     "type": "manual"
                 }
             }
